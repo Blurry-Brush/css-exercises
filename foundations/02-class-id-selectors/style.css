@@ -1,0 +1,19 @@
+#four {
+    background-color: rgb(152, 228, 152);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+p {
+    background-color: rgb(236, 105, 175);
+    font-family: Verdana, sans-serif;
+}
+
+.alert-text{
+    font-size: 24px;
+}
+
+#second {
+    color : rgb(5, 5, 186);
+    font-size: 36px;
+}
